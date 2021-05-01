@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "multiply two numbers",
+      "setup": "",
+      "run": "run.c",
+      "input": "2 2",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 60,
+      "points": null
+    }
+  ]
+}
